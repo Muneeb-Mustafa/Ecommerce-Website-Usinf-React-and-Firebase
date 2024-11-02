@@ -1,0 +1,22 @@
+.text-dark a,
+.text-dark a:visited {
+  text-decoration: none;
+  color: #000000;
+}
+ 
+.text-dark a:hover {
+  color: #333333;
+  text-decoration: none;
+}
+ 
+
+@media (max-width: 576px) {
+  .social-icon {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  .foot2 img {
+    margin-top: 20px;
+  }
+}
