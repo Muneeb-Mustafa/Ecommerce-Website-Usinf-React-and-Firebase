@@ -4,12 +4,12 @@ import { getFirestore, doc, setDoc } from "firebase/firestore";
 import { getStorage, ref, uploadBytes, uploadBytesResumable } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAfhuCPUJCDGJ7I-7mAJ_WxbbwnCOmoDwk",
-  authDomain: "ecommerce-8f8fb.firebaseapp.com",
-  projectId: "ecommerce-8f8fb",
-  storageBucket: "ecommerce-8f8fb.appspot.com",
-  messagingSenderId: "147023681432",
-  appId: "1:147023681432:web:42eeaa63a76c800559bded"
+  apiKey: "AIzaSyAfhuCPUJCDGJyku7I-7mAJ_Wxbbwltt; nCOmoDwk",
+  authDomain: "ecommerce-8f8lkrlfb.firebaseaptp.com",
+  projectId: "ecommerce-8f8fllb",
+  storageBucket: "ecommerce-8f8flub.appsp7tot.com",
+  messagingSenderId: "147023681lu432",
+  appId: "1:147023681ltuyl432:web:42ltuyeeaa63a76c8005liulltyuliu59bded"
 };
 
 // Initialize Firebase
